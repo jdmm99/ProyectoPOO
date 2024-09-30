@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{860C1BFB-70A8-4B36-BC90-8830BD8C9F45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.barcodes, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.barcodes.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.bouncy-castle-connector, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.bouncy-castle-connector.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.commons, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.commons.8.0.1\lib\net461\itext.commons.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfa, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.sign, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.sign.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.styledxmlparser, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.styledxmlparser.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.svg, Version=8.0.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itext.8.0.1\lib\net461\itext.svg.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itextsharp.xmlworker.5.5.13.3\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.5.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Cconexion.cs" />
+    <Compile Include="Clases\frmAntecedentes.cs" />
+    <Compile Include="Clases\frmCita.cs" />
+    <Compile Include="Clases\frmConsulta.cs" />
+    <Compile Include="Clases\frmExamenFisico.cs" />
+    <Compile Include="Clases\frmHistoriaMedica.cs" />
+    <Compile Include="Clases\frmMedicamentos.cs" />
+    <Compile Include="Clases\frmRegistrarAdministrador.cs" />
+    <Compile Include="Clases\frmRegistrarMedico.cs" />
+    <Compile Include="Clases\frmRegistrarPaciente.cs" />
+    <Compile Include="Clases\frmRevisionSistema.cs" />
+    <Compile Include="Clases\Usuario.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrAdministrador.Designer.cs">
+      <DependentUpon>fmrAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrAgendarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrAgendarCita.Designer.cs">
+      <DependentUpon>fmrAgendarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrAntecedente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrAntecedente.Designer.cs">
+      <DependentUpon>fmrAntecedente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrCerrarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrCerrarSesion.Designer.cs">
+      <DependentUpon>fmrCerrarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrConsulta.Designer.cs">
+      <DependentUpon>fmrConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrExamenFisico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrExamenFisico.Designer.cs">
+      <DependentUpon>fmrExamenFisico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrImagenesMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrImagenesMedico.Designer.cs">
+      <DependentUpon>fmrImagenesMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrInicio.Designer.cs">
+      <DependentUpon>fmrInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrMedicamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrMedicamentos.Designer.cs">
+      <DependentUpon>fmrMedicamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrPacienteHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrPacienteHistoria.Designer.cs">
+      <DependentUpon>fmrPacienteHistoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrPacientes.Designer.cs">
+      <DependentUpon>fmrPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrRecetarMedicamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrRecetarMedicamento.Designer.cs">
+      <DependentUpon>fmrRecetarMedicamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrRegistroAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrRegistroAdministrador.Designer.cs">
+      <DependentUpon>fmrRegistroAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrRegistroPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrRegistroPaciente.Designer.cs">
+      <DependentUpon>fmrRegistroPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrRevisionSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrRevisionSistema.Designer.cs">
+      <DependentUpon>fmrRevisionSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrRegistroMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrRegistroMedico.Designer.cs">
+      <DependentUpon>fmrRegistroMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrWelcome.Designer.cs">
+      <DependentUpon>fmrWelcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmCita.Designer.cs">
+      <DependentUpon>frmCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\fmrInformacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\fmrInformacion.Designer.cs">
+      <DependentUpon>fmrInformacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\fmrAdministrador.resx">
+      <DependentUpon>fmrAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrAgendarCita.resx">
+      <DependentUpon>fmrAgendarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrAntecedente.resx">
+      <DependentUpon>fmrAntecedente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrCerrarSesion.resx">
+      <DependentUpon>fmrCerrarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrConsulta.resx">
+      <DependentUpon>fmrConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrExamenFisico.resx">
+      <DependentUpon>fmrExamenFisico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrImagenesMedico.resx">
+      <DependentUpon>fmrImagenesMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrInicio.resx">
+      <DependentUpon>fmrInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrMedicamentos.resx">
+      <DependentUpon>fmrMedicamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrPacienteHistoria.resx">
+      <DependentUpon>fmrPacienteHistoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrPacientes.resx">
+      <DependentUpon>fmrPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrRecetarMedicamento.resx">
+      <DependentUpon>fmrRecetarMedicamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrRegistroAdministrador.resx">
+      <DependentUpon>fmrRegistroAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrRegistroPaciente.resx">
+      <DependentUpon>fmrRegistroPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrRegistroMedico.resx">
+      <DependentUpon>fmrRegistroMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrRevisionSistema.resx">
+      <DependentUpon>fmrRevisionSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrWelcome.resx">
+      <DependentUpon>fmrWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmCita.resx">
+      <DependentUpon>frmCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\fmrInformacion.resx">
+      <DependentUpon>fmrInformacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Holi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diseñopedf.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+    <title>Historia Clínica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+        }
+
+        h2 {
+            font-size: 20px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Historia Clínica</h1>
+    <div>
+        <table>
+
+            <tr>
+
+                <td style="width:40%">
+                    <table>
+                        <TR><td>Nombre:  @nombre</td></TR>
+                        <tr><td>Apellidos:  @apellido</td></tr>
+                        <TR><td>Documento:  @documento</td></TR>
+                        <tr><td>Sexo:  @sexo</td></tr>
+                        <tr><td>Talla:  @talla</td></tr>
+
+                    </table>
+                </td>
+
+
+                <td style="width:40%">
+                    <table>
+
+                        <tr><TD>Peso:  @peso</TD></tr>
+                        <TR><td>Telefono:  @telefono</td></TR>
+                        <tr><td>Correo:  @correo</td></tr>
+                        <tr><td>Direccion:  @direccion</td></tr>
+                        <tr><td>No.Expediente:  @noexpediente</td></tr>
+                    </table>
+                </td>
+                <td style="width:20%">
+                </td>
+
+            </tr>
+
+
+        </table>
+
+    </div>
+
+    <div class="section">
+        <h2>Antecedentes Médicos</h2>
+        <table>
+            <tr>
+                <th>Familiares:</th>
+                <td>@familiares</td>
+            </tr>
+            <tr>
+                <th>Ginecologicos:</th>
+                <td>@ginecologicos</td>
+            </tr>
+            <tr>
+                <th>Obstetricos:</th>
+                <td>@obstetricos</td>
+            </tr>
+            <tr>
+                <th>Toxicologicos:</th>
+                <td>@toxicologicos</td>
+            </tr>
+            <tr>
+                <th>Farmacologicos:</th>
+                <td>@farmacologicos</td>
+            </tr>
+            <tr>
+                <th>Patologicos:</th>
+                <td>@patologicos</td>
+            </tr>
+            <tr>
+                <th>Quirurjicos:</th>
+                <td>@quirurgicos</td>
+            </tr>
+            <tr>
+                <th>Traumaticos:</th>
+                <td>@traumaticos</td>
+            </tr>
+        </table>
+    </div>
+    <div class="section">
+        <h2>Examen Fisco</h2>
+        <table>
+            <tr>
+                <th>Estado general:</th>
+                <td>@estadogeneral</td>
+            </tr>
+            <tr>
+                <th>Signos vitales:</th>
+                <td>@signosvitales</td>
+            </tr>
+            <tr>
+                <th>Presion Arterial:</th>
+                <td>@presionarterial</td>
+            </tr>
+            <tr>
+                <th>Frecuencia Cardiaca:</th>
+                <td>@frecuenciacardiaca</td>
+            </tr>
+            <tr>
+                <th>Freciencia Respiratoria:</th>
+                <td>@frecienciarespiratoria</td>
+            </tr>
+            <tr>
+                <th>Saturacion del oxigeno:</th>
+                <td>@saturacionoxigeno</td>
+            </tr>
+            <tr>
+                <th>Temperatura:</th>
+                <td>@temperatura</td>
+            </tr>
+        </table>
+    </div>
+    <div class="section">
+        <h2>Revision general del sistema</h2>
+        <table>
+            <tr>
+                <th>Cabeza:</th>
+                <td>@cabeza</td>
+            </tr>
+            <tr>
+                <th>Cuello:</th>
+                <td>@cuello</td>
+            </tr>
+            <tr>
+                <th>Torax:</th>
+                <td>@torax</td>
+            </tr>
+            <tr>
+                <th>Corazon:</th>
+                <td>@corazon</td>
+            </tr>
+            <tr>
+                <th>Pulmon:</th>
+                <td>@pulmon</td>
+            </tr>
+            <tr>
+                <th>Abdomen:</th>
+                <td>@abdomen</td>
+            </tr>
+            <tr>
+                <th>Osteo Muscular:</th>
+                <td>@osteomuscular</td>
+            </tr>
+            <tr>
+                <th>Neurologicos:</th>
+                <td>@neurologicos</td>
+            </tr>
+            <tr>
+                <th>Vascular:</th>
+                <td>@vascular</td>
+            </tr>
+            <tr>
+                <th>GenitoUrinario:</th>
+                <td>@genitourinario</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Recomendaciones</h2>
+        <table>
+            <tr>
+                <th>Para Tener En Cuenta:</th>
+                <td>@recomendaciones</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h2>Medicamentos</h2>
+    </div>
+
+</body>
+</html>

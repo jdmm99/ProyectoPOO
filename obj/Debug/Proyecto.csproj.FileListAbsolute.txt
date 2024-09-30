@@ -1,0 +1,326 @@
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedico.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedico.resources
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroPaciente.resources
+C:\Users\salas\source\repos\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroMedico.resources
+C:\Users\escob\source\repos\Proyecto (2)\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\escob\source\repos\Proyecto (2)\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\escob\source\repos\Proyecto (2)\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedico.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroPaciente.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroMedico.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrAntecedente.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroAdministrador.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroPaciente.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroMedico.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRevisionSistema.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacientes.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedicamentos.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacienteHistoria.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.frmCita.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrConsulta.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrAdministrador.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrExamenFisico.resources
+C:\Users\escob\source\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\escob\source\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\escob\source\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrAdministrador.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrAgendarCita.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrAntecedente.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrConsulta.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrExamenFisico.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedicamentos.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacienteHistoria.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacientes.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroAdministrador.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroPaciente.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroMedico.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrRevisionSistema.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.frmCita.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Formularios.fmrInformacion.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\yedam\OneDrive\Escritorio\Proyecto POO\Proyecto\obj\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrAgendarCita.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrInformacion.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrRecetarMedicamento.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.barcodes.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.bouncy-castle-connector.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.commons.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.forms.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.io.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.kernel.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.layout.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.pdfa.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.sign.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.styledxmlparser.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.svg.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Newtonsoft.Json.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.ValueTuple.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.barcodes.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.bouncy-castle-connector.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.commons.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.forms.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.io.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.kernel.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.layout.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.pdfa.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.sign.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.styledxmlparser.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itext.svg.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\Newtonsoft.Json.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Buffers.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Memory.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\System.ValueTuple.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrImagenesMedico.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.barcodes.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.commons.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.forms.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.io.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.kernel.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.layout.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.pdfa.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.sign.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.styledxmlparser.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.svg.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.ValueTuple.dll
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.barcodes.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.commons.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.forms.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.io.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.kernel.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.layout.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.pdfa.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.sign.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.styledxmlparser.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itext.svg.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Buffers.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Memory.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\bin\Debug\System.ValueTuple.xml
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrAdministrador.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrAgendarCita.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrAntecedente.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrConsulta.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrExamenFisico.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrImagenesMedico.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedicamentos.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacienteHistoria.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacientes.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrRecetarMedicamento.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroAdministrador.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroPaciente.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroMedico.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrRevisionSistema.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.frmCita.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Formularios.fmrInformacion.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\yedam\OneDrive\Escritorio\Poo\Proyecto (3)\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.barcodes.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.commons.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.forms.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.io.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.kernel.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.layout.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.pdfa.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.sign.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.styledxmlparser.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.svg.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\HP\Downloads\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.barcodes.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.commons.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.forms.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.io.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.kernel.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.layout.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.pdfa.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.sign.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.styledxmlparser.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itext.svg.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Buffers.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Memory.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Downloads\Proyecto\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrAdministrador.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrAgendarCita.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrAntecedente.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrConsulta.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrExamenFisico.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrImagenesMedico.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrInicio.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrMedicamentos.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacienteHistoria.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrPacientes.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrRecetarMedicamento.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroAdministrador.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroPaciente.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrRegistroMedico.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrRevisionSistema.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrWelcome.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.frmCita.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Formularios.fmrInformacion.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\HP\Downloads\Proyecto\obj\Debug\Proyecto.pdb
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrWelcome.resources
+D:\Yoimar\Trabajos de la Uni\Quinto Semestre\Poo\Proyecto\Proyecto\obj\Debug\Proyecto.Formularios.fmrCerrarSesion.resources
